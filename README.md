@@ -375,7 +375,7 @@ This project is open source and available for educational purposes.
 
 **Connect:**
 - GitHub: [@Farhan-Shaikh20](https://github.com/Farhan-Shaikh20)
-- Email: farhan@gmail.com
+- Email: farhanshiakh20@gmail.com
 
 ---
 
